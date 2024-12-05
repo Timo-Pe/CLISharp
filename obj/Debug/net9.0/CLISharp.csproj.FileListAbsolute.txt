@@ -1,0 +1,14 @@
+C:\Users\timot\lab\CLISharp\bin\Debug\net9.0\CLISharp.exe
+C:\Users\timot\lab\CLISharp\bin\Debug\net9.0\CLISharp.deps.json
+C:\Users\timot\lab\CLISharp\bin\Debug\net9.0\CLISharp.runtimeconfig.json
+C:\Users\timot\lab\CLISharp\bin\Debug\net9.0\CLISharp.dll
+C:\Users\timot\lab\CLISharp\bin\Debug\net9.0\CLISharp.pdb
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.AssemblyInfoInputs.cache
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.AssemblyInfo.cs
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.csproj.CoreCompileInputs.cache
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.dll
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\refint\CLISharp.dll
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.pdb
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.genruntimeconfig.cache
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\ref\CLISharp.dll
