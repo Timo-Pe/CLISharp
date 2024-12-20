@@ -1,0 +1,24 @@
+[
+    {
+        "Name" : "Bois",
+        "DefaultValue" : 1000,
+        "Description" : "Sert a la construction de bâtiments"
+    },
+    {
+        "Name" : "Pierre",
+        "DefaultValue" : 1000,
+        "Description" : "Sert a la construction de bâtiments"   
+    },
+    {
+        "Name" : "Or",
+        "DefaultValue" : 1000,
+        "Description" : "Sert de monnaie pour les joueurs"   
+    },
+    {
+        "Name" : "Nourriture",
+        "DefaultValue" : 1000,
+        "Description" : "Sert a la survie du joueur"
+    }
+
+
+]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLISharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+920dd503b2f62e95ff1830c7eb469d7c52f20118")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLISharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLISharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

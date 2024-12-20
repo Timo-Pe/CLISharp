@@ -12,3 +12,4 @@ C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\refint\CLISharp.dll
 C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.pdb
 C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.genruntimeconfig.cache
 C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\ref\CLISharp.dll
+C:\Users\timot\lab\CLISharp\obj\Debug\net9.0\CLISharp.sourcelink.json
